@@ -1,0 +1,50 @@
+Daily Inspirational Quotes
+
+Overview
+Welcome to the Daily Inspirational Quotes repository! This collection aims to provide a source of daily motivation and positivity through a curated list of inspirational quotes.
+
+        "The only way to do great work is to love what you do."
+        -Steve Jobs
+  
+        "The best way to predict the future is to invent it.",
+        -Alan Kay"
+  
+        "Believe you can and you're halfway there."
+        -Theodore Roosevelt
+  
+        "Success is not the key to happiness. Happiness is the key success. 
+        If you love what you are doing, you will be successful."
+        -Albert Schweitzer
+  
+        "Your time is limited, so don’t waste it living someone else’s 
+        life."
+        -Steve Jobs
+
+Contributing 
+
+We welcom contributions! If you have a favorite inspirational quote you'd like to add, please follow the steps
+
+Fork the Repository.
+
+Create a New Branch (git checkout -b add-quote).
+
+Add Your Quote: Edit the quotes.json file to include your quote.
+
+Commit Your Changes (git commit -m 'Add inspirational quote').
+
+Push to the Branch (git push origin add-quote).
+
+Open a Pull Request.
+
+License
+
+This project is licensed under MIT License
+
+Contact 
+
+If you have any questions, suggestions, or feedback please feel free to reach out:
+
+Email: justinlott082@gmail.com
+GitHub Issues: Issues Page
+
+Thanks for visiting the Daily Inspirational Quotes repository! May thes quotes bring positivity and ispiration to your day.🌟
